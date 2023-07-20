@@ -1,5 +1,5 @@
 import Link from "next/link";
-//灌水
+//灌
 
 export default function Footer() {
   return (
